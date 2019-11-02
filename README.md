@@ -6,4 +6,4 @@
 tries主要是写的各种树还有字符查找，dijkstra则是写的最短路径导航。我觉得比较聪明的是dijkstra正反跑两遍来找出如果必须经过一些vertex的最短路径，比起每个节点跑一遍dijkstra大大减少了复杂度。另外用heap的结构减少检索的时间复杂度。        
 英语介绍：Assignment 3 and assignment 4 for FIT2004
 
-（另外已经上传了我大一大二这两年所有写的比较有意义的大作业，这学期的会等学期结束再上传）
+~~(可以follow我吗）~~ 
